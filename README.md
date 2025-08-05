@@ -8,21 +8,21 @@
 ---
 
 ### 💼 About Me
-- 🎓 Background in **Mathematics**
-- 📊 Skilled in **Data Analysis**, **Visualization**, and **Predictive Modeling**
-- 📍 Based in Saudi Arabia
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/reematurki-alotaibi)
+- 🎓 Background in **Mathematics**  
+- 📊 Skilled in **Data Analysis**, **Visualization**, and **Predictive Modeling**  
+- 📍 Based in **Riyadh**, **Saudi Arabia**  
+
 
 ---
 
 ### 🛠️ Tools & Technologies
-- **Languages**: Python | R | SQL | DAX
-- **Data Wrangling**: Excel | Power Query | Pandas
-- **Visualization**:
-  - Python: Matplotlib, Seaborn, Plotly
-  - R: ggplot2, Shiny
-  - BI Tools: Power BI, Tableau, Dash
-- **Machine Learning**: Scikit-learn, XGBoost
+- **Languages**: Python | R | SQL | DAX  
+- **Data Wrangling**: Excel | Power Query | Pandas  
+- **Visualization**:  
+  - Python: Matplotlib, Seaborn, Plotly  
+  - R: ggplot2, Shiny  
+  - BI Tools: Power BI, Tableau, Dash  
+- **Machine Learning**: Scikit-learn, XGBoost  
 - **Other Skills**: Forecasting, Storytelling with Data
 
 ---
@@ -30,16 +30,14 @@
 ### 🔭 Current Focus
 - 📈 Building **interactive dashboards** using Power BI & Tableau  
 - 🤖 Applying **machine learning** models to real-world data  
-- 🧠 Learning advanced SQL & Python for analytics  
-
+- 🧠 Learning **advanced SQL & Python** for analytics  
 
 ---
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/reematurki-alotaibi)
-- 📧 Email: reematurkialotaibi@gmail.com
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/reematurki-alotaibi)  
+- 📧 Email: reematurkialotaibi@gmail.com  
 
 ---
 
-> *"Empowering decisions through data — one insight at a time."* 🚀
+> **“Empowering decisions through data — one insight at a time.”** 🚀
